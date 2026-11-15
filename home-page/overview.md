@@ -40,6 +40,7 @@ Links in the demo point to collections and pages with `shopify://` references. W
 
 ## Add, move or hide a section
 
-* **Add section** under *Template* in the sidebar adds any Pipsy section.
+* **Add section** under *Template* in the sidebar opens the section library. General sections (rich text, image banner, slideshow, image with text, multicolumn, featured collection, collection list, video, gallery, testimonials, FAQ, email signup, custom Liquid and more) can go on any page.
+* The Pipsy home sections (hero mosaic, height tiles, plan chips, product rack, forecast wardrobe, word swap and set builder) appear in the library only on the home page. The content page sections (closing card, tile band, questions with card, how to measure, size guide) appear only on page templates, and the help accordion on product and page templates.
 * Drag the handle next to a section to move it.
 * The eye icon hides a section without deleting its content.

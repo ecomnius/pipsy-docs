@@ -51,7 +51,11 @@ The product template (`templates/product.json`) has five sections:
 | **Product facts** | Heading, Show product type | Collapsible "Additional information" table. |
 | **Product pickup** | — | Local pickup availability when enabled. |
 
-Other blocks you can add: **Product badges**, **Share buttons** (networks from Theme settings > Social media), **Size chart** (see [Size data](size-data.md#size-chart-block)), product collapsible rows, inventory, and app blocks.
+Other blocks you can add: **Product badges**, **Share buttons** (networks from Theme settings > Social media), **Size chart** (see [Size data](size-data.md#size-chart-block)), product collapsible rows, inventory, and app blocks. The general blocks (heading, text, button, image, icon, group, accordion, video and more) can also go in the buy box.
+
+{% hint style="info" %}
+Product blocks are listed under **Add block** only in product sections (the product page, Featured product and quick view). Containers elsewhere, such as Image banner, Popup, Group, tabs and accordion rows, list only the general blocks.
+{% endhint %}
 
 ![Description and Additional information opened in the buy box](../.gitbook/assets/product-description-open-desktop.png)
 

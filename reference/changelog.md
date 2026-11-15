@@ -2,6 +2,11 @@
 
 Pipsy version **1.0.0**. Newest changes first.
 
+## 2026-11-16
+
+* Section library: general sections stay available on every page; Pipsy home sections show only on the home page, and content page sections only on page templates. Removed unused sections: Hero slider, Image accordion, Scene tabs, Lookbook, Collection index, Custom section, Product questions, Product story and Size finder.
+* Block library: product blocks appear only in product sections; Image banner, Popup, Group, tabs and accordion rows list the general blocks. Removed unused blocks: Video button, and the block versions of Journal articles and Featured collection (the sections stay). The second Heading entry is gone from the picker.
+
 ## 1.0.0 — 2026-11-15
 
 First public release.
