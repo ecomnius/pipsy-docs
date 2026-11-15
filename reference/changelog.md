@@ -1,8 +1,12 @@
 # Changelog
 
-Pipsy version **0.1.0**. Newest changes first.
+Pipsy version **1.0.0**. Newest changes first.
 
-## 2026-11-15
+## 1.0.0 — 2026-11-15
+
+First public release.
+
+* Theme info in **Customize > Theme settings** links to this guide and to Novaworks support.
 
 * Quick view: even 50/50 columns on every page, inner padding on the home page, tighter buy box and compact pickers.
 * Demo links use `shopify://` references and hide themselves when the collection, page or blog does not exist on the store ([How links behave](links.md)).
