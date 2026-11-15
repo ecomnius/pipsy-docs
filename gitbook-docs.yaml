@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Pipsy
+  structure:
+    - type: space
+      key: space-pipsy
+      title: Pipsy
+      path: docs
+      default: true
+      content:
+        directory: ./
